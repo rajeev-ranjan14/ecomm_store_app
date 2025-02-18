@@ -13,8 +13,14 @@ public class Application {
 		System.out.println(i);
 		int k = 30;
 		System.out.println(j);
+<<<<<<< HEAD
 		char gender = 'M';
 		int age = 20;
+=======
+		boolean isSaved = false;
+		boolean isUpdated = true;	
+	
+>>>>>>> 70da7c58d3187bbd190d12cf3fa37464dbafddcc
 	}
 
 }
