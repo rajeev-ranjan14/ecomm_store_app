@@ -14,5 +14,10 @@ public class Application {
 		int k = 30;
 		System.out.println(j);
 	}
+	
+	//JIRA-102
+	public void m2(){
+		//logic
+	}
 
 }
